@@ -4,10 +4,10 @@ TodoMern is a comprehensive task management application built with the MERN stac
 
 ## Screenshots
 
-![Screenshot fourth](frontend/src/assets/tmain.PNG)
-![Screenshot one](frontend/src/assets/t1.PNG)
-![Screenshot two](frontend/src/assets/t2.PNG)
-![Screenshot three](frontend/src/assets/t3.PNG)
+![Screenshot img](src/assets/tmain.PNG)
+![Screenshot img](src/assets/t1.PNG)
+![Screenshot img](src/assets/t2.PNG)
+![Screenshot img](src/assets/t3.PNG)
 
 ## Prerequisites
 
